@@ -39,8 +39,8 @@ const config: Config = {
             DEFAULT : "#DD3E52",
             foreground:"#E0E0E0"
            },
-           content1:'#252525',
            focus:"#C70833",
+           content1:'#252525',
            content2:'#6A6A6A'
 
           }, // dark theme colors
@@ -69,8 +69,8 @@ const config: Config = {
             DEFAULT : "#9fc131",
             foreground:"#E0E0E0"
            },
-           content1:'#252525',
            focus:"#C70833",
+           content1:'#252525',
            content2:'#6A6A6A'
 
           }, // dark theme colors

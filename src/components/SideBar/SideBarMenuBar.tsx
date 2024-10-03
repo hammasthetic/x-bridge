@@ -15,7 +15,6 @@ function SideBarMenuBar() {
       <Link  href='#' className=' flex flex-row gap-2 hover:text-primary-400 text-content2'   ><FlaskConical/> Testnet</Link>
     </div>
       </div>
-    
     <div className='addNetwork'>
         <Button startContent={<WalletCards size={20}/>} fullWidth radius='sm' size='sm' className='text-primary text-sm'>Add network to wallet</Button>
     </div>

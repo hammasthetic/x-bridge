@@ -196,7 +196,7 @@ export default function BirdgingTabs() {
                         <Bitcoin/>
                       </div>
                     </div>
-                    <Button color="primary" variant="ghost">
+                    <Button radius="sm" color="primary" variant="ghost">
                         Start Bridging
                     </Button>
                   </div>

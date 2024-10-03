@@ -1,14 +1,11 @@
 import type { Metadata } from "next";
-import { Inter,Orbitron,Pixelify_Sans } from "next/font/google";
+import { Orbitron,Pixelify_Sans } from "next/font/google";
 import "./globals.css";
 import { GlobalProviders } from "@/providers/GlobalProviders";
 import Header from "@/components/Header";
 import Sidebar from "@/components/SideBar/Sidebar";
-import { Button } from "@nextui-org/react";
-import { MessageSquarePlus, QrCode, Send } from "lucide-react";
 import PoweredBy from "@/components/SideBar/PoweredBy";
 
-const inter = Inter({ subsets: ["latin"] });
 export const PixelifySans = Pixelify_Sans({ subsets: ["cyrillic"] });
 const orbitron = Orbitron({ subsets: ["latin"] });
 
